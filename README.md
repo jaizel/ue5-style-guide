@@ -8,8 +8,6 @@ This is a draft of version 2. All work on version 2 of this style guide will be 
 
 Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
 
-[![Analytics](https://ga-beacon.appspot.com/UA-80567399-1/repo?useReferrer)](#)
-
 ## Repo Notice
 
 This repo is now located at https://github.com/Allar/ue5-style-guide. The default branch of this repository has been renamed `main`.
